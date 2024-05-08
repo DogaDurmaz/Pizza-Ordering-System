@@ -36,10 +36,3 @@ Run the `main()` function to start the program. Follow the prompts to place your
 - Python 3.x
 - CSV module
 
-## Contributors
-
-- [Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
